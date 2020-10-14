@@ -1,6 +1,7 @@
 Zmiana07b
+<<<<<<< HEAD
 naprawa b³êdów - hotFix-001
-oraz
+=======
 Dodano asystenta pomocy
 Uproszczono interfejs graficzny
-easierApp
+>>>>>>> easierApp
