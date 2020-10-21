@@ -2,6 +2,6 @@ Zmiana01 - Zmiana06
 Zmiana02 Zmiana02a
 Zmiana03 - Zmiana07c
 Zmiana04
-Zmiana05 Zmiana08 Zmiana09
+Zmiana05 Zmiana08 Zmiana09 Zmiana10
 Dodano asystenta pomocy
 Uproszczono interfejs graficzny
