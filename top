@@ -1,0 +1,104 @@
+[33mcommit 01a30f64c38ae99f0ab2e06acdff814cd692d62d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: MichalCzajkowski123 <72618221+MichalCzajkowski123@users.noreply.github.com>
+Date:   Wed Oct 21 12:02:57 2020 +0200
+
+    Zmiana10
+
+[33mcommit 698d645b7e7e2e53663e41bf34b5a0247ff53129[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: MichalCzajkowski123 <72618221+MichalCzajkowski123@users.noreply.github.com>
+Date:   Wed Oct 21 11:28:34 2020 +0200
+
+    Revert "Zmiana12"
+    
+    This reverts commit d34a83097c98e24e4c032a91eb6d819bc89b8089.
+
+[33mcommit d34a83097c98e24e4c032a91eb6d819bc89b8089[m
+Author: MichalCzajkowski123 <72618221+MichalCzajkowski123@users.noreply.github.com>
+Date:   Wed Oct 21 11:26:33 2020 +0200
+
+    Zmiana12
+
+[33mcommit a8c77e2daeac65c83c2daf4218b4a50140379c33[m
+Author: MichalCzajkowski123 <72618221+MichalCzajkowski123@users.noreply.github.com>
+Date:   Wed Oct 21 10:56:36 2020 +0200
+
+    Zmiana09 w obu plikach: Plik01.txt oraz Plik02.txt
+
+[33mcommit 52a7272e82e1d192b1a5a07007c9f22ef0aff4c5[m
+Author: MichalCzajkowski123 <72618221+MichalCzajkowski123@users.noreply.github.com>
+Date:   Wed Oct 21 10:53:19 2020 +0200
+
+    Zmiana08 w Plik01.txt oraz Plik02.txt
+
+[33mcommit d32d3b3dc8acd37c90eab278c12ed028c6e48b34[m
+Merge: 33b43d7 bdd87da
+Author: MichalCzajkowski123 <72618221+MichalCzajkowski123@users.noreply.github.com>
+Date:   Wed Oct 14 14:44:07 2020 +0200
+
+    Merge branch 'easierApp' into master
+
+[33mcommit 33b43d71249f966ae946463ba94c9599054cea3b[m[33m ([m[1;32mhotFix-001[m[33m)[m
+Author: MichalCzajkowski123 <72618221+MichalCzajkowski123@users.noreply.github.com>
+Date:   Wed Oct 14 14:24:17 2020 +0200
+
+    Naprawa problemu hotFix-001
+
+[33mcommit bdd87da7a122847cbfe938a8bf47ae1e367f782c[m[33m ([m[1;32measierApp[m[33m)[m
+Author: MichalCzajkowski123 <72618221+MichalCzajkowski123@users.noreply.github.com>
+Date:   Wed Oct 14 14:20:24 2020 +0200
+
+    uproszczono GUI
+
+[33mcommit a25709558e8291810cd3490b7ee8152a22c3bce0[m
+Author: MichalCzajkowski123 <72618221+MichalCzajkowski123@users.noreply.github.com>
+Date:   Wed Oct 14 14:18:20 2020 +0200
+
+    Dodany asystent
+
+[33mcommit 4f4755f5ffb59e7a97c12dce4e2ac1ba4e8f50f4[m
+Author: MichalCzajkowski123 <72618221+MichalCzajkowski123@users.noreply.github.com>
+Date:   Wed Oct 14 13:52:37 2020 +0200
+
+    Zmiana07
+
+[33mcommit 35b5c840fdce3d56534c2a0d4c7981dfc264434a[m
+Author: Michał Czajkowski <michcza351@student.polsl.pl>
+Date:   Wed Oct 7 11:16:03 2020 +0200
+
+    Zmiana06
+
+[33mcommit 19557a8797389ceec47d6fcc52be5b5ea00fc5da[m
+Author: Michał Czajkowski <michcza351@student.polsl.pl>
+Date:   Wed Oct 7 10:51:26 2020 +0200
+
+    Dodano plik Plik02.txt
+
+[33mcommit 5381db7ce06122989f511585f04c98a82596a00d[m
+Author: Michał Czajkowski <michcza351@student.polsl.pl>
+Date:   Wed Oct 7 10:17:09 2020 +0200
+
+    Zmiana05
+
+[33mcommit c9f18e914ac0401e79a00ebf0771e5f30157b553[m
+Author: Michał Czajkowski <michcza351@student.polsl.pl>
+Date:   Wed Oct 7 10:14:00 2020 +0200
+
+    Zmiana04
+
+[33mcommit d78db0c9bd3ecf01b99acdf4e5f630018ee0a85c[m
+Author: Michał Czajkowski <michcza351@student.polsl.pl>
+Date:   Wed Oct 7 10:03:18 2020 +0200
+
+    Zmiana03
+
+[33mcommit c339767c27e234dfe554a301acbb5ac6801f7523[m
+Author: Michał Czajkowski <michcza351@student.polsl.pl>
+Date:   Wed Oct 7 09:59:01 2020 +0200
+
+    Zmiana02
+
+[33mcommit 8f722074ff78ccff2717f0e532231d2a38a0a7a4[m
+Author: Michał Czajkowski <michcza351@student.polsl.pl>
+Date:   Wed Oct 7 09:52:01 2020 +0200
+
+       git commit
