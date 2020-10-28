@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Zmiana07b Zmiana10
 naprawa b³êdów - hotFix-001
+=======
+Zmiana07b
+naprawa b³êdów - hotFix-001 Zmiana12
+>>>>>>> origin/master
 oraz
 Dodano asystenta pomocy
 Uproszczono interfejs graficzny
