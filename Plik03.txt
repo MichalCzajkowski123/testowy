@@ -1,5 +1,5 @@
 Zmiana07b
-naprawa b³êdów - hotFix-001
+naprawa b³êdów - hotFix-001 Zmiana12
 oraz
 Dodano asystenta pomocy
 Uproszczono interfejs graficzny
